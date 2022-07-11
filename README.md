@@ -1,4 +1,4 @@
-# HRC_WHU：High-resolution cloud detection dataset
+# HRC_WHU：High-Resolution Cloud Detection Dataset
 
 **Introduction**
 
