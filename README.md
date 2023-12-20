@@ -4,7 +4,7 @@ The high-resolution cloud detection validation dataset, termed HRC\_WHU, compris
 
 ![image](https://raw.githubusercontent.com/dr-lizhiwei/HRC_WHU-High-resolution-cloud-detection-datasetset/main/Preview-of-HRC_WHU.jpg)
 
-<center>Fig. 1. Preview of images in HRC\_WHU</center>
+Fig. 1. Preview of images in HRC\_WHU
 
 In the procedure of delineating the cloud mask for high-resolution imagery, we first stretched the cloudy image to the appropriate contrast in Adobe Photoshop. The lasso tool and magic wand tool were then alternately used to mark the locations of the clouds in the image. The manually labeled reference mask was finally created by assigning the pixel values of cloud and clear sky to 255 and 0, respectively. Note that a tolerance of 5–30 was set when using the magic wand tool, and the lasso tool was used to modify the areas that could not be correctly selected by the magic wand tool. As we did in a previous study (Li et al., 2017), the thin clouds were labeled as cloud if they were visually identifiable and the underlying surface could not be seen clearly. Considering that cloud shadows in high-resolution images are rare and hard to accurately select, only clouds were labeled in the reference masks.
 
