@@ -2,7 +2,7 @@
 
 The high-resolution cloud detection dataset, termed HRC\_WHU, comprises 150 high-resolution images acquired with three RGB channels and a resolution varying from 0.5 to 15 meters across different global regions. As shown in Fig. 1, the images were collected from Google Earth in five main land-cover types, i.e., water, vegetation, urban, snow/ice, and barren. The associated reference cloud masks were digitized by experts specializing in remote sensing image interpretation from Wuhan University. The established high-resolution cloud detection dataset has been made available online.
 
-![image](https://raw.githubusercontent.com/dr-lizhiwei/HRC_WHU/main/Fig.-1.-Preview-of-images-in-HRC_WHU.jpg)
+![image](https://raw.githubusercontent.com/dr-lizhiwei/HRC_WHU/main/Fig.%201.%20Preview%20of%20images%20in%20HRC_WHU.jpg)
 
 Fig. 1. Preview of images in HRC\_WHU dataset.
 
